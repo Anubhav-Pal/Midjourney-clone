@@ -1,8 +1,9 @@
-import Home from "./Home";
-import CreatePost from "./CreatePost";
+import Card from "../components/Card";
+import Loader from "../components/Loader";
+import FormField from "../components/FormField";
 
-
-export{
-    Home,
-    CreatePost
+export {
+    Card,
+    Loader,
+    FormField
 }
